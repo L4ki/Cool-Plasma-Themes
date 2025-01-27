@@ -35,7 +35,7 @@ Screenshot:
 ![Cool-Wallpaper With Logo](https://github.com/user-attachments/assets/d2ca6672-73bd-42d6-a766-53977bb07101)
 
 
-Changelog: 20.01.2025.
+Changelog: 27.01.2025.
 --------------------------
 
 Icons
