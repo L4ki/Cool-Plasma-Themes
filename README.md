@@ -35,10 +35,10 @@ Screenshot:
 ![Cool-Wallpaper With Logo](https://github.com/user-attachments/assets/d2ca6672-73bd-42d6-a766-53977bb07101)
 
 
-Changelog: 11.08.2025.
+Changelog: 18.08.2025.
 --------------------------
 
 Icons
 -----
 
-Added new icons: apps 48, applets 48
+Added new icons: apps 48
